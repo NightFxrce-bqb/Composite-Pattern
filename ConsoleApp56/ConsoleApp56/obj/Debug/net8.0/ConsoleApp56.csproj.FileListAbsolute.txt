@@ -1,0 +1,14 @@
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\obj\Debug\net8.0\ConsoleApp56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\obj\Debug\net8.0\ConsoleApp56.AssemblyInfoInputs.cache
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\obj\Debug\net8.0\ConsoleApp56.AssemblyInfo.cs
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\obj\Debug\net8.0\ConsoleApp56.csproj.CoreCompileInputs.cache
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\bin\Debug\net8.0\ConsoleApp56.exe
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\bin\Debug\net8.0\ConsoleApp56.deps.json
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\bin\Debug\net8.0\ConsoleApp56.runtimeconfig.json
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\bin\Debug\net8.0\ConsoleApp56.dll
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\bin\Debug\net8.0\ConsoleApp56.pdb
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\obj\Debug\net8.0\ConsoleApp56.dll
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\obj\Debug\net8.0\refint\ConsoleApp56.dll
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\obj\Debug\net8.0\ConsoleApp56.pdb
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\obj\Debug\net8.0\ConsoleApp56.genruntimeconfig.cache
+C:\Users\ovchinnikovkv\source\repos\ConsoleApp56\ConsoleApp56\obj\Debug\net8.0\ref\ConsoleApp56.dll
